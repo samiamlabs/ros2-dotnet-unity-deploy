@@ -1,0 +1,21 @@
+{
+    "name": "HITS (Extending docker-compose)",
+    "dockerComposeFile": "../docker-compose.yaml",
+    "service": "ros2",
+    "remoteUser": "ros",
+    "workspaceFolder": "/home/ros/src",
+    "extensions": [
+        "dotjoshjohnson.xml",
+        "ms-azuretools.vscode-docker",
+        "ms-iot.vscode-ros",
+        "ms-python.python",
+        "ms-vscode.cpptools",
+        "redhat.vscode-yaml",
+        "smilerobotics.urdf",
+        "streetsidesoftware.code-spell-checker",
+        "twxs.cmake",
+        "yzhang.markdown-all-in-one",
+        "eamodio.gitlens",
+        "njpwerner.autodocstring"
+    ]
+}
